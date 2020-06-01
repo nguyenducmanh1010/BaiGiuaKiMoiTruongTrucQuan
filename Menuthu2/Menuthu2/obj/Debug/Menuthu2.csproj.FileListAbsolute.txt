@@ -1,0 +1,11 @@
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\bin\Debug\Menuthu2.exe.config
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\bin\Debug\Menuthu2.exe
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\bin\Debug\Menuthu2.pdb
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.csprojAssemblyReference.cache
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.Form1.resources
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.Properties.Resources.resources
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.csproj.GenerateResource.cache
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.exe
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.pdb
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.fmNewProject.resources
+C:\Users\ad\source\repos\Menuthu2\Menuthu2\obj\Debug\Menuthu2.Form2.resources
